@@ -1,0 +1,1 @@
+Base a simple WordPress Theme.
